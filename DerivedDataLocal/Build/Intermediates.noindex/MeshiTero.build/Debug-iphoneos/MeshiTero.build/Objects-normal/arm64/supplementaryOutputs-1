@@ -1,0 +1,23 @@
+{
+  "/Users/chocho/Desktop/MeshiTero/MeshiTero/AppState.swift" : {
+    "const-values" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AppState.dia",
+    "object" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AppState.swiftdeps"
+  },
+  "/Users/chocho/Desktop/MeshiTero/MeshiTero/AuthView.swift" : {
+    "const-values" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AuthView.swiftconstvalues",
+    "dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AuthView.d",
+    "diagnostics" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AuthView.dia",
+    "object" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AuthView.o",
+    "swift-dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/AuthView.swiftdeps"
+  },
+  "/Users/chocho/Desktop/MeshiTero/MeshiTero/CameraPicker.swift" : {
+    "const-values" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/CameraPicker.swiftconstvalues",
+    "dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/CameraPicker.d",
+    "diagnostics" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/CameraPicker.dia",
+    "object" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/CameraPicker.o",
+    "swift-dependencies" : "/Users/chocho/Desktop/MeshiTero/DerivedDataLocal/Build/Intermediates.noindex/MeshiTero.build/Debug-iphoneos/MeshiTero.build/Objects-normal/arm64/CameraPicker.swiftdeps"
+  }
+}
